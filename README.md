@@ -3,7 +3,12 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Overview
 This react native project is built and developed with macOS and iOS simulator.
 
-It is a pre-cursor for the WeatherApp project, which features a switch that enables user to convert weather temperature data back and forth between Celsius and Fahrenheit.
+It is a pre-cursor for the WeatherApp project, which features a switch that enables user to convert weather temperature data back and forth between Celsius and Fahrenheit. The figures below displays such feature in action:
+
+<kbd><img width="350" alt="show-and-tell-F" src="https://github.com/user-attachments/assets/7e321bcf-ae73-47ac-bf60-bf78d962c1e4"/></kbd>
+<kbd><img width="350" alt="show-and-tell-C" src="https://github.com/user-attachments/assets/964865ef-74d5-4f83-be22-d31ae92ade6a"/></kbd>
+
+
 
 # Getting Started
 
